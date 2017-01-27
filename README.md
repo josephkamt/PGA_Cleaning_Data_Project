@@ -3,6 +3,11 @@
 ## General Description
 The data employed in the project deal with the informaciton recorded on Samsung mobile devices carried by a number of participants in the study. Each one carried a set of 6 different routines, setting the observations as the recorded sessions of all subjects and the routines that each carried. As it is noticed, each subject could engage each routine more than once. Eah observation records a set of calculations regarding the movement that each subject generated, and how the mobile device recorded for each session. The data is generated as raw data for each experiment.
 
+## Files included in repository
+- "run_analysis.R" - Code employed for project.
+- "Code_Book.md" - A general description of the procedures and functions employed, as details on motivations for steps used.
+- "GCDCProject.xlsx" - The final tidy data set with the aggregate mean values for each unique subject and activity.
+- "Readme.md" - Readme file.
 
 ## Source:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
