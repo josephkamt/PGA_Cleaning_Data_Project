@@ -4,7 +4,7 @@ Url <- "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%
 download.file(Url, destfile="./file.zip", method="curl")
 unzip(zipfile="./file.zip",exdir="./")
 
-# Loading txt files into R
+# Loading packages needed for developed code in R
 library(data.table)
 library(dplyr)
 library(plyr)
