@@ -4,7 +4,8 @@
 The data employed in the project deal with the informaciton recorded on Samsung mobile devices carried by a number of participants in the study. Each one carried a set of 6 different routines, setting the observations as the recorded sessions of all subjects and the routines that each carried. As it is noticed, each subject could engage each routine more than once. Eah observation records a set of calculations regarding the movement that each subject generated, and how the mobile device recorded for each session. The data is generated as raw data for each experiment.
 
 
-## Source: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+## Source:
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 ## Brief Data Set Information
 The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. Using its embedded accelerometer and gyroscope, we captured 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz. The experiments have been video-recorded to label the data manually. The obtained dataset has been randomly partitioned into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data. 
