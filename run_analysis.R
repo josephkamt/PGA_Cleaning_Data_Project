@@ -6,7 +6,7 @@ unzip(zipfile="./file.zip",exdir="./")
 
 
 
-# Loading txt files into R
+# Loading packages used in R code
 library(data.table)
 library(dplyr)
 library(plyr)
