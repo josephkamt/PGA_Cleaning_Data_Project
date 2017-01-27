@@ -91,3 +91,4 @@ merged_labels <- merge(merge_test_train2, activity_labels, by="activitycode", al
 secTidySet <- aggregate(. ~subjectcode + activity_description, merged_labels, mean)
 secTidySet <- select(secTidySet, -activitycode)
 write.xlsx(secTidySet, "./GCDCProject.xlsx")
+write.xlsx(secTidySet, "./GCDCProject.txt")
